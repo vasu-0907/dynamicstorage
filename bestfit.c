@@ -18,7 +18,7 @@ int main()
 
     bf arr[n];
 
-    int x[n];
+    int x[m];
     int y[m];
 
     printf("Enter process size one by one");
