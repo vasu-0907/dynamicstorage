@@ -18,8 +18,8 @@ int main()
 
     ff arr[n];
 
-    int x[n];
-    int y[n];
+    int x[m];
+    int y[m];
 
     printf("Enter process size one by one");
 
